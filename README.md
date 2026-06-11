@@ -1,4 +1,4 @@
-# AdminCiudades — Frontend
+# Panel Admin — Frontend
 
 Frontend en React + Vite + Tailwind CSS para gestión de empleados con permisos por ciudad (Medellín / Bogotá).
 
